@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+  background-color: rgb(255, 249, 240);
+}
+
+h1 {
+  color: orange;
+  font-family: copperplate, monaco, Arial, Helvetica, sans-serif;
+  font-size: 3rem;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul li {
+  font-size: 1.3rem;
+  padding: 0.5rem;
+}
+
+ul li a {
+  font-family: copperplate;
+}
+
+a:hover {
+  background-color: orange;
+}
